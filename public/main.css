@@ -48,7 +48,7 @@ div.hero {
 }
 
 div.hero h1,
-div.hero h2 {
+div.hero h3 {
     text-align: center;
     margin: 0;
 }
@@ -59,7 +59,7 @@ div.hero h1 {
     margin-bottom: 20px;
 }
 
-div.hero h2 {
+div.hero h3 {
     color: #4d5791;
 }
 
